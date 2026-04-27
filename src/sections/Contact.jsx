@@ -132,7 +132,7 @@ export default function Contact() {
                   <div>
                     <p className="text-white/40 text-[10px] font-semibold uppercase tracking-wider mb-0.5">Email</p>
                     <a href="mailto:khalidbabusyed@gmail.com" className="text-white text-sm font-medium hover:text-blue-400 transition-colors break-all">
-                      khalidbabusyed@gmail.com
+                      youremail@gmail.com
                     </a>
                   </div>
                 </div>
