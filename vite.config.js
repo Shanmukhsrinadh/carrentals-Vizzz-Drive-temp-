@@ -4,7 +4,7 @@ import babel from '@rolldown/plugin-babel'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/Vizzz-Drive/',
+  bbase: '/carrentals-Vizzz-Drive-temp/',
   plugins: [
     tailwindcss(),
     react(),
